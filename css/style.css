@@ -4746,6 +4746,16 @@ ul.project-detail-block,
     background: #323232;
 }
 
+.slide-text-inline {
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px 30px;
+}
+.slide-logo {
+    position: absolute;
+    max-width: 200px;
+}
+
 @-webkit-keyframes ani-mouse {
     0% {
         opacity: 1;
