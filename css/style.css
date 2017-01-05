@@ -1035,6 +1035,10 @@ form label.error {
     .float-right-sm {
         float: right !important;
     }
+
+    .slide-logo {
+        opacity: 0.5;
+    }
 }
 
 @media (max-width: 767px) {
